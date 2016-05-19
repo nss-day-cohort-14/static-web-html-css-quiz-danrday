@@ -1,0 +1,68 @@
+body {
+  font-family: sans-serif;
+}
+
+article {
+  width:30%;
+  border: 1px solid lightblue;
+  min-width: 250px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  height: 200px;
+}
+
+.cardtitle {
+  border: 1px solid lightgray;
+  text-align: center;
+  margin: 0;
+  padding: 15px;
+}
+
+.availability {
+  color: gold;
+  background-color: grey;
+  padding: 5px 3px;
+}
+
+.productDescription {
+  text-align: justify;
+  padding: 4px;
+  line-height: 1em;
+}
+
+.indent {
+  padding-left: 10px;
+  margin-top: -10px;
+}
+
+.specs {
+    padding-left: 10px;
+    margin-top: -10px;
+}
+
+.specs p {
+  font-weight: bold;
+  line-height: .2em;
+  font-size: .8em;
+}
+
+.pricing {
+  padding-left: 10px;
+  margin-top: -10px;
+}
+
+.pricing p {
+  font-weight: bold;
+  line-height: .2em;
+  font-size: .8em;
+}
+
+footer {
+  font-size: .8em;
+  margin-top: 2em;
+}
